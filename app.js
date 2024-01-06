@@ -20,7 +20,6 @@ menu2.addEventListener('click',function(){
     logo1.classList.toggle('show-none');
 })
 
-// // gpt
 // let menu = document.querySelector('#menu-icon');
 // let header = document.querySelector('header');
 // let header2 = document.querySelector('.header2');
